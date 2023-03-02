@@ -1,0 +1,54 @@
+.contenedor {
+    display: flex;
+    margin: auto;
+    width: auto;
+    background-image: url('Imagen/fondo.jpg');
+    background-size: 100% 100%;
+}
+
+.definicion {
+    width: 50%;
+    height: 80%;
+    color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+img {
+    border-radius: 100%;
+    width: 250px;
+    height: auto;
+    border: 5px solid rgb(92, 230, 223);
+    margin: 50%;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: cursive, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.texto {
+    font-size: 20px;
+    font-family: cursive, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.correo {
+    font-size: 15px;
+    font-family: cursive, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.año {
+    font-size: 15px;
+    font-family: cursive, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.nombre {
+    font-size: 40px;
+    width: 150%;
+    font-family: cursive, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(55, 192, 216);
+}
